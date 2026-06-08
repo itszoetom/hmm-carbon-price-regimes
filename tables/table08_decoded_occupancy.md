@@ -1,0 +1,5 @@
+| regime   |   decoded days |   decoded share |
+|:---------|---------------:|----------------:|
+| normal   |           1391 |           0.292 |
+| stressed |           2891 |           0.606 |
+| crashed  |            486 |           0.102 |

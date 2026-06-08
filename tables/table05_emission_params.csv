@@ -1,0 +1,4 @@
+regime,mean daily return,daily volatility,annualized volatility,stationary weight
+normal,0.00104,0.01436,0.228,0.315
+stressed,0.0007,0.02537,0.403,0.568
+crashed,-0.00408,0.0601,0.954,0.117

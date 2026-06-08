@@ -1,0 +1,16 @@
+| statistic                | value      |
+|:-------------------------|:-----------|
+| observations             | 4768       |
+| first date               | 2008-01-03 |
+| last date                | 2026-05-20 |
+| min price (EUR)          | 2.7        |
+| max price (EUR)          | 98.01      |
+| mean daily log-return    | 0.00025    |
+| std daily log-return     | 0.02916    |
+| annualized volatility    | 0.463      |
+| skew                     | -0.764     |
+| excess kurtosis          | 15.055     |
+| min daily log-return     | -0.4347    |
+| max daily log-return     | 0.2405     |
+| stale days (zero return) | 92         |
+| stale days percent       | 1.93       |
