@@ -30,7 +30,7 @@ the stationary distribution and the most likely hidden regime path.
 
 ## Getting the data
 
-The series is the EUA front December futures daily settlement, downloaded from
+The data for this project is from the EUA front December futures daily settlement, downloaded from
 Investing.com's [Carbon Emissions Futures](https://www.investing.com/commodities/carbon-emissions-historical-data)
 page. Download the daily series into data/raw and prepare it with:
 
